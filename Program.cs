@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Did_you_Pass
+namespace Activity_6
 {
     internal class Program
     {
@@ -51,3 +51,4 @@ namespace Did_you_Pass
         }
     }
 }
+
